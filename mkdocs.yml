@@ -1,0 +1,86 @@
+site_name: My Magic System
+site_description: A reference wiki for the magic system.
+# TODO: set these to your GitHub username and repo name
+site_url: https://YOUR-USERNAME.github.io/magic-system-wiki/
+repo_url: https://github.com/YOUR-USERNAME/magic-system-wiki
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+
+extra_css:
+  - assets/css/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+plugins:
+  - search
+
+# Templates are built but hidden from search; remove from nav if you like.
+exclude_docs: |
+  templates/
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Core Concepts:
+      - core-concepts/index.md
+      - Source of Magic: core-concepts/source-of-magic.md
+      - Rules and Limits: core-concepts/rules-and-limits.md
+      - Costs and Consequences: core-concepts/costs-and-consequences.md
+      - Terminology: core-concepts/terminology.md
+  - Schools:
+      - schools/index.md
+      - School One: schools/school-one.md
+      - School Two: schools/school-two.md
+  - Spells:
+      - spells/index.md
+      - Tier 1:
+          - Example Spell: spells/tier-1/example-spell.md
+  - Items: items/index.md
+  - Practitioners: practitioners/index.md
+  - Lore:
+      - lore/index.md
+      - Timeline: lore/timeline.md
+  - Mechanics:
+      - mechanics/index.md
+      - Casting: mechanics/casting.md
+      - Progression: mechanics/progression.md
+  - Reference:
+      - Glossary: reference/glossary.md
+      - Changelog: reference/changelog.md
+      - Open Questions: reference/open-questions.md
