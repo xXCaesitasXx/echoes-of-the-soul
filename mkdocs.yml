@@ -1,8 +1,8 @@
 site_name: My Magic System
-site_description: A reference wiki for the magic system.
+site_description: A reference wiki for the rune magic system.
 # TODO: set these to your GitHub username and repo name
-site_url: https://YOUR-USERNAME.github.io/magic-system-wiki/
-repo_url: https://github.com/YOUR-USERNAME/magic-system-wiki
+site_url: https://xXCaesitasXx.github.io/echoes-of-the-soul/
+repo_url: https://github.com/xXCaesitasXx/echoes-of-the-soul
 edit_uri: edit/main/docs/
 
 theme:
@@ -50,7 +50,7 @@ markdown_extensions:
 plugins:
   - search
 
-# Templates are built but hidden from search; remove from nav if you like.
+# Templates are copy-paste sources, not site pages.
 exclude_docs: |
   templates/
 
@@ -60,18 +60,18 @@ nav:
   - Core Concepts:
       - core-concepts/index.md
       - Source of Magic: core-concepts/source-of-magic.md
+      - Rank and Fusion: core-concepts/rank-and-fusion.md
       - Rules and Limits: core-concepts/rules-and-limits.md
       - Costs and Consequences: core-concepts/costs-and-consequences.md
       - Terminology: core-concepts/terminology.md
-  - Schools:
-      - schools/index.md
-      - School One: schools/school-one.md
-      - School Two: schools/school-two.md
-  - Spells:
-      - spells/index.md
-      - Tier 1:
-          - Example Spell: spells/tier-1/example-spell.md
-  - Items: items/index.md
+  - Runes:
+      - runes/index.md
+      - Rank 1:
+          - Example Rune: runes/rank-1/example-rune.md
+  - Fusions:
+      - fusions/index.md
+      - Example Fusion: fusions/example-fusion.md
+  - Builds: builds/index.md
   - Practitioners: practitioners/index.md
   - Lore:
       - lore/index.md
