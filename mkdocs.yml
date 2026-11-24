@@ -1,8 +1,8 @@
 site_name: My Magic System
 site_description: A reference wiki for the rune magic system.
 # TODO: set these to your GitHub username and repo name
-site_url: https://xXCaesitasXx.github.io/echoes-of-the-soul/
-repo_url: https://github.com/xXCaesitasXx/echoes-of-the-soul
+site_url: https://YOUR-USERNAME.github.io/magic-system-wiki/
+repo_url: https://github.com/YOUR-USERNAME/magic-system-wiki
 edit_uri: edit/main/docs/
 
 theme:
