@@ -2,8 +2,8 @@ title: My Magic System
 description: A reference wiki for the rune magic system.
 
 # TODO: set baseurl to "/YOUR-REPO-NAME" (keep the leading slash) and url to your Pages host.
-url: https://YOUR-USERNAME.github.io
-baseurl: /YOUR-REPO-NAME
+url: https://xXCaesitasXx.github.io
+baseurl: /echoes-of-the-soul
 
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
@@ -21,7 +21,7 @@ relative_links:
 
 aux_links:
   "View on GitHub":
-    - https://github.com/YOUR-USERNAME/YOUR-REPO-NAME
+    - https://github.com/xXCaesitasXx/echoes-of-the-soul
 
 # Templates are copy-paste sources, not site pages.
 exclude:
