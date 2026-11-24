@@ -1,0 +1,28 @@
+title: My Magic System
+description: A reference wiki for the rune magic system.
+
+# TODO: set baseurl to "/YOUR-REPO-NAME" (keep the leading slash) and url to your Pages host.
+url: https://YOUR-USERNAME.github.io
+baseurl: /YOUR-REPO-NAME
+
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+
+# Lets links like [Runes](runes/index.md) work on the built site.
+relative_links:
+  enabled: true
+  collections: false
+
+aux_links:
+  "View on GitHub":
+    - https://github.com/YOUR-USERNAME/YOUR-REPO-NAME
+
+# Templates are copy-paste sources, not site pages.
+exclude:
+  - templates/
