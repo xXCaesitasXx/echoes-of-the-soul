@@ -5,7 +5,7 @@ description: A reference wiki for the rune magic system.
 url: https://xXCaesitasXx.github.io
 baseurl: /echoes-of-the-soul
 
-remote_theme: pages-themes/primer@v0.6.0
+remote_theme: mmistakes/minimal-mistakes@4.26.2
 color_scheme: dark
 search_enabled: true
 heading_anchors: true
