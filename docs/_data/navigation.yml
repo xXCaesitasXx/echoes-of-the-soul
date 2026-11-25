@@ -1,0 +1,85 @@
+# Top bar
+main:
+  - title: "Home"
+    url: /
+  - title: "Core Concepts"
+    url: /core-concepts/
+  - title: "Runes"
+    url: /runes/
+  - title: "Fusions"
+    url: /fusions/
+  - title: "Lore"
+    url: /lore/
+
+# Left sidebar (referenced as nav: "docs" in _config.yml).
+# Each top-level title is a heading; children are the links under it.
+docs:
+  - title: "Start Here"
+    children:
+      - title: "Welcome"
+        url: /
+      - title: "Getting Started"
+        url: /getting-started.html
+
+  - title: "Core Concepts"
+    children:
+      - title: "Overview"
+        url: /core-concepts/
+      - title: "Source of Magic"
+        url: /core-concepts/source-of-magic.html
+      - title: "Rank and Fusion"
+        url: /core-concepts/rank-and-fusion.html
+      - title: "Rules and Limits"
+        url: /core-concepts/rules-and-limits.html
+      - title: "Costs and Consequences"
+        url: /core-concepts/costs-and-consequences.html
+      - title: "Terminology"
+        url: /core-concepts/terminology.html
+
+  - title: "Runes"
+    children:
+      - title: "Rune Catalog"
+        url: /runes/
+      - title: "Example Rune"
+        url: /runes/rank-1/example-rune.html
+
+  - title: "Fusions"
+    children:
+      - title: "Fusion Recipes"
+        url: /fusions/
+      - title: "Example Fusion"
+        url: /fusions/example-fusion.html
+
+  - title: "Builds & People"
+    children:
+      - title: "Builds"
+        url: /builds/
+      - title: "Practitioners"
+        url: /practitioners/
+
+  - title: "Lore"
+    children:
+      - title: "Overview"
+        url: /lore/
+      - title: "Timeline"
+        url: /lore/timeline.html
+
+  - title: "Mechanics"
+    children:
+      - title: "Overview"
+        url: /mechanics/
+      - title: "Using Runes"
+        url: /mechanics/casting.html
+      - title: "Progression"
+        url: /mechanics/progression.html
+
+  - title: "Reference"
+    children:
+      - title: "Overview"
+        url: /reference/
+      - title: "Glossary"
+        url: /reference/glossary.html
+      - title: "Changelog"
+        url: /reference/changelog.html
+      - title: "Open Questions"
+        url: /reference/open-questions.html
