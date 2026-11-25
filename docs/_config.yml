@@ -20,9 +20,16 @@ relative_links:
   enabled: true
   collections: false
 
-aux_links:
-  "View on GitHub":
-    - https://github.com/xXCaesitasXx/echoes-of-the-soul
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      sidebar:
+        nav: "docs"
+      toc: true
+      toc_label: "On this page"
+      toc_icon: "scroll"
 
 # Templates are copy-paste sources, not site pages.
 exclude:
