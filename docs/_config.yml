@@ -13,6 +13,7 @@ heading_anchors: true
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
+  - jekyll-include-cache
 
 # Lets links like [Runes](runes/index.md) work on the built site.
 relative_links:
