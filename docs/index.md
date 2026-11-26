@@ -12,7 +12,7 @@ feature_row:
       alt: Getting Started
       title: Getting Started
       excerpt: Browse the guide to begin creating content for the Echoes of the Soul
-      url: /getting-started.md
+      url: /getting-started.html
       btn_label: Get Started
       btn_class: btn--primary
     - image_path: /assets/images/tile.jpg
