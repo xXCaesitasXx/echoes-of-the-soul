@@ -5,7 +5,7 @@ layout: splash
 toc: false
 header:
     overlay_image: /assets/images/splash.jpg
-excerpt: A wiki for the Echoes of the Soul RP
+excerpt: A wiki for the Echoes of the Soul RP; honested through Discord. 
 
 feature_row:
     - image_path: /assets/images/tile.jpg
@@ -13,30 +13,23 @@ feature_row:
       title: Getting Started
       excerpt: Browse the guide to begin creating content for the Echoes of the Soul
       url: /getting-started.md
-      btn_label: Getting Started
+      btn_label: Get Started
       btn_class: btn--primary
     - image_path: /assets/images/tile.jpg
-      alt: Getting Started
-      title: Getting Started
-      excerpt: Browse the guide to begin creating content for the Echoes of the Soul
-      url: /getting-started.md
-      btn_label: Getting Started
+      alt: Echoes System
+      title: Echoes System
+      excerpt: Embrace the Echoes System and uncover the secrets of magic
+      url: /echoes/
+      btn_label: Embrace Magic
       btn_class: btn--primary
     - image_path: /assets/images/tile.jpg
-      alt: Getting Started
-      title: Getting Started
-      excerpt: Browse the guide to begin creating content for the Echoes of the Soul
-      url: /getting-started.md
-      btn_label: Getting Started
+      alt: Lore
+      title: Lore
+      excerpt: Explore the world of Rathion and peer into the Academy
+      url: /rathion/
+      btn_label: Enter the World
       btn_class: btn--primary
 ---
-
-# Welcome
-
-This website is to be used as the primary source of information for the Echoes of the Soul Role-Play; hosted through Discord. This website contains information about the world, the magic system, and how
- to create characters that interract with the world on a daily basis.
-
-## Where to begin
 
 {% include feature_row %}
 

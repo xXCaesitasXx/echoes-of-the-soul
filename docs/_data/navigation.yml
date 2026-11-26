@@ -4,12 +4,12 @@ main:
     url: /
   - title: "Core Concepts"
     url: /core-concepts/
-  - title: "Runes"
-    url: /runes/
+  - title: "Echoes"
+    url: /echoes/
   - title: "Fusions"
     url: /fusions/
-  - title: "Lore"
-    url: /lore/
+  - title: "Rathion"
+    url: /rathion/
 
 # Left sidebar (referenced as nav: "docs" in _config.yml).
 # Each top-level title is a heading; children are the links under it.
@@ -36,12 +36,12 @@ docs:
       - title: "Terminology"
         url: /core-concepts/terminology.html
 
-  - title: "Runes"
+  - title: "Echoes"
     children:
-      - title: "Rune Catalog"
-        url: /runes/
-      - title: "Example Rune"
-        url: /runes/rank-1/example-rune.html
+      - title: "Echo Catalog"
+        url: /echoes/
+      - title: "Example Echo"
+        url: /echoes/rank-1/example-echo.html
 
   - title: "Fusions"
     children:
