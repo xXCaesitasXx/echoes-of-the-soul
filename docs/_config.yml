@@ -6,7 +6,7 @@ url: https://xXCaesitasXx.github.io
 baseurl: /echoes-of-the-soul
 
 remote_theme: mmistakes/minimal-mistakes@4.26.2
-color_scheme: dark
+minimal_mistakes_skin: dark
 search_enabled: true
 heading_anchors: true
 
