@@ -1,11 +1,6 @@
 ---
 title: Welcome
-permalink: /
-layout: splash
-toc: false
-header:
-    overlay_image: /assets/images/splash.jpg
-excerpt: A wiki for the Echoes of the Soul RP; honested through Discord. 
+nav_order: 1
 
 feature_row:
     - image_path: /assets/images/tile.jpg
@@ -31,6 +26,11 @@ feature_row:
       btn_class: btn--primary
 ---
 
+# WELCOME
+Echoes of the Soul is an RP hosted on Discord - which uses a unique magic system. Just stopping by? Take a look at what we have to offer.
+
+
+## YOUR JOURNEY STARTS HERE
 {% include feature_row %}
 
 > **Work in progress.** This wiki tracks a system under active development. See the [Changelog](reference/changelog.md) and [Open Questions](reference/open-questions.md).
