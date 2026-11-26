@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: WELCOME
 nav_order: 1
 
 feature_row:
@@ -26,7 +26,6 @@ feature_row:
       btn_class: btn--primary
 ---
 
-# WELCOME
 Echoes of the Soul is an RP hosted on Discord - which uses a unique magic system. Just stopping by? Take a look at what we have to offer.
 
 
