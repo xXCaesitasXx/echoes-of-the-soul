@@ -1,12 +1,12 @@
-title: My Magic System
-description: A reference wiki for the rune magic system.
+title: ECHOES OF THE SOUL
+description: A repository of the Echoes of the Soul RP Information. Proceed at your own risk!
 
 # TODO: set baseurl to "/YOUR-REPO-NAME" (keep the leading slash) and url to your Pages host.
 url: https://xXCaesitasXx.github.io
 baseurl: /echoes-of-the-soul
 
 remote_theme: mmistakes/minimal-mistakes@4.26.2
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: sunrise
 search_enabled: true
 heading_anchors: true
 
