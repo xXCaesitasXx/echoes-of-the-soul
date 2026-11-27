@@ -8,22 +8,22 @@ feature_row:
     - image_path: /assets/images/tile.jpg
       alt: Getting Started
       title: Getting Started
-      excerpt: Browse the guide to begin creating content for the Echoes of the Soul
+      excerpt: Learn the Basics
       url: /getting-started.html
       btn_label: Get Started
       btn_class: btn--primary
     - image_path: /assets/images/tile.jpg
       alt: Echoes System
       title: Echoes System
-      excerpt: Embrace the Echoes System and uncover the secrets of magic
+      excerpt: Embrace the Echoes System
       url: /echoes/
       btn_label: Embrace Magic
       btn_class: btn--primary
     - image_path: /assets/images/tile.jpg
-      alt: Lore
-      title: Lore
-      excerpt: Explore the world of Rathion and peer into the Academy
-      url: /rathion/
+      alt: Rathion
+      title: Rathion
+      excerpt: Explore the world of Rathion
+      url: /lore/rathion/
       btn_label: Enter the World
       btn_class: btn--primary
 ---
