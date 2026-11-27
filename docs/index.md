@@ -2,6 +2,8 @@
 title: WELCOME
 nav_order: 1
 
+toc: false
+
 feature_row:
     - image_path: /assets/images/tile.jpg
       alt: Getting Started

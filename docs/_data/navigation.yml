@@ -1,7 +1,5 @@
 # Top bar
 main:
-  - title: "Home"
-    url: /
   - title: "Core Concepts"
     url: /core-concepts/
   - title: "Echoes"
