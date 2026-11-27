@@ -23,17 +23,13 @@ character-creation-row:
       btn_class: btn--primary
 ---
 Welcome, oh lost soul...
-{: .notice--info}
 
 You've dared to peer into that which makes up your very being and have encountered something - something that will easily get you swept off course forever. For you see, allow me to guide you through the inner
 workings of your very being. Your soul - and the echoes which it holds internally. Embrace the knowledge, so that one day you may join the Rathion Academy, and journey to become a true Magus!
-{: .notice--info}
 
 The best way to begin, is first by learning about your soul and then shaping your vessel to match it's representation before any echo can be hosted.
-{: .notice--info}
 
 Go - discover the truth about your soul and **embrace the echoes.**
-{: .notice--info}
 
 _HEAD MAGUS NICHOLAS FABLE_
 {: .notice--info}
