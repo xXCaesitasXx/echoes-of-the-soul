@@ -1,6 +1,5 @@
 ---
 title: GETTING STARTED
-nav_order: 2
 
 character-creation-row:
     - image_path: /assets/images/tile.jpg
@@ -19,11 +18,9 @@ character-creation-row:
       alt: The Echo
       title: The Echo
       url: /getting-started/character-creation/the-echo.html
-      btn_label: Forge your Echo
+      btn_label: Select your Echo
       btn_class: btn--primary
 ---
-***
-
 Welcome, oh lost soul...
 
 You've dared to peer into that which makes up your very being and have encountered something - something that will easily get you swept off course forever. For you see, allow me to guide you through the inner
@@ -35,23 +32,9 @@ Go - discover the truth about your soul and **embrace the echoes.**
 
 _HEAD MAGUS NICHOLAS FABLE_
 
-***
 
 ## CREATING YOUR CHARACTER
-The following sections are going to explain 
-
 {% include feature_row id="character-creation-row" %}
 
-
-## Key ideas
-
-1. **Runes:** _what a rune is and what it does_
-2. **Inscription:** _how and where runes are held (soul, body, objects?)_
-3. **Fusion:** _how N runes of one rank combine into one rune of the next_
-4. **Rank:** _what higher ranks unlock_
-
-## Where to go next
-
-- [Rank and Fusion](core-concepts/rank-and-fusion.md)
-- [Runes](runes/index.md)
-- [Fusions](fusions/index.md)
+## WHERE TO GO NEXT
+test asdfg1234
