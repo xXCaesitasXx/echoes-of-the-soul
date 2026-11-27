@@ -22,6 +22,8 @@ character-creation-row:
       btn_label: Forge your Echo
       btn_class: btn--primary
 ---
+***
+
 Welcome, oh lost soul...
 
 You've dared to peer into that which makes up your very being and have encountered something - something that will easily get you swept off course forever. For you see, allow me to guide you through the inner
@@ -32,7 +34,8 @@ The best way to begin, is first by learning about your soul and then shaping you
 Go - discover the truth about your soul and **embrace the echoes.**
 
 _HEAD MAGUS NICHOLAS FABLE_
-{: .notice--info}
+
+***
 
 ## CREATING YOUR CHARACTER
 The following sections are going to explain 
