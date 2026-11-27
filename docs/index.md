@@ -9,7 +9,7 @@ feature_row:
       alt: Getting Started
       title: Getting Started
       excerpt: Learn the Basics
-      url: /getting-started.html
+      url: /getting-started/
       btn_label: Get Started
       btn_class: btn--primary
     - image_path: /assets/images/tile.jpg
