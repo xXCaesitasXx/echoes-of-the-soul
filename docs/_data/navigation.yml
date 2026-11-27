@@ -1,13 +1,11 @@
 # Top bar
 main:
-  - title: "Core Concepts"
-    url: /core-concepts/
+  - title: "Learn"
+    url: /learn/
   - title: "Echoes"
     url: /echoes/
-  - title: "Fusions"
-    url: /fusions/
-  - title: "Rathion"
-    url: /rathion/
+  - title: "Lore"
+    url: /lore/
 
 # Left sidebar (referenced as nav: "docs" in _config.yml).
 # Each top-level title is a heading; children are the links under it.
